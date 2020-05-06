@@ -1,0 +1,63 @@
+h3
+ {
+    color: #272d2c;
+    margin: 0px 0px 15px 0px;
+    font-weight: 400;
+    font-family: 'PT Sans', sans-serif;
+    font-size: 24px;
+    line-height: 30px;
+}
+.form-group {
+    margin-bottom: 5px;
+}
+.form-control:focus {
+    color: #34b2a4 !important;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border-bottom-color: #41c9b9;
+    font-size: 12px;
+}
+.contact-pageheader {
+    position: relative;
+    background: rgb(243, 135, 12);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#91eee2', endColorstr='#39c4b6', GradientType=1);
+    margin-bottom: 70px;
+}
+.contact-caption {
+    position: relative;
+    top: 180px;
+}
+.contact-info-title{
+    font-family: 'PT Serif', serif;
+    font-size: 50px;
+    font-style: italic;
+}
+.contact-title {
+    font-family: 'PT Serif', serif;
+    font-size: 50px;
+    font-style: italic;
+    line-height:80px;
+}
+.contact-form {
+    background-color: #fff;
+    padding: 30px;
+    text-align: center;
+    position: relative;
+    bottom: 0px;
+    top: 100px;
+    -webkit-box-shadow: 1px 2px 14px 0px rgba(0, 0, 0, 0.29);
+    -moz-box-shadow: 1px 2px 14px 0px rgba(0, 0, 0, 0.29);
+    box-shadow: 1px 2px 14px 0px rgba(0, 0, 0, 0.29);
+}
+
+
+
+
+
+
+
+
+
+
+
